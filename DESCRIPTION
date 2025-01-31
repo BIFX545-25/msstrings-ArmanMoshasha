@@ -1,10 +1,9 @@
 Package: msstringsArmanMoshasha
 Title: Extract and display peptide modifications from Spectronaut
 Version: 0.0.1
-Authors@R:person("Arman", "Moshasha", email = "ArmanMoshasha@gmail.com", role = c("aut","cre"))
+Authors@R: person("Arman", "Moshasha", email = "ArmanMoshasha@gmail.com", role = c("aut","cre"))
 Description: Extract and display peptide modifications from Spectronaut.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
