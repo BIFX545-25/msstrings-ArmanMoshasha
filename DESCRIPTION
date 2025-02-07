@@ -4,6 +4,12 @@ Version: 0.0.1
 Authors@R: person("Arman", "Moshasha", email = "ArmanMoshasha@gmail.com", role = c("aut","cre"))
 Description: Extract and display peptide modifications from Spectronaut.
 License: MIT + file LICENSE
+BiocViews:
+Imports:
+  Biostrings,
+  dplyr,
+  purrr,
+  stringr
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
